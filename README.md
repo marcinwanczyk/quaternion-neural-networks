@@ -6,7 +6,8 @@ disaster events.
 [LPCVAI2023](https://lpcv.ai/2023LPCVC/introduction)
 
 # Labels
-The model contains 13 classes seen below on the chart, additionaly containing the class distribution of each pixel from the ground-truth images.
+The model contains 13 classes seen below on the chart, additionaly containing the class distribution of each pixel from the ground-truth images.<br>
+
 ![Class Distribution](screenshots/class_distribution.png)
 
 # Metrics
