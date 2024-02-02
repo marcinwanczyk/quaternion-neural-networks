@@ -1,0 +1,11 @@
+certifi
+dataclasses
+imageio
+numpy
+opencv-python
+Pillow
+torchvision<0.15.2
+#torch
+typing_extensions
+ipython
+
